@@ -1,0 +1,271 @@
+# EconomyShopGUI / Essentials Worth Configuration
+# Balanced for Survival Server (Starting balance: $1000)
+worth:
+  # Ores - Mining
+  coal: 10
+  ironore: 15
+  goldore: 30
+  diamondore: 150
+  lapisore: 75
+  redstoneore: 20
+  copperore: 12
+  emeraldore: 200
+  
+  # Ingots
+  ironingot: 20
+  goldingot: 50
+  copperingot: 15
+  diamond: 150
+  emerald: 200
+  
+  # Blocks
+  cobblestone: 1
+  stone: 2
+  ironblock: 180
+  goldblock: 450
+  diamondblock: 1350
+  emeraldblock: 1800
+  coalblock: 90
+  redstoneblock: 180
+  lapisblock: 675
+  
+  # Farm items
+  wheat: 5
+  carrot: 8
+  potato: 8
+  beetroot: 8
+  pumpkin: 30
+  melon: 15
+  sugarcane: 8
+  cactus: 8
+  bamboo: 2
+  apple: 8
+  goldenapple: 75
+  mushroom: 3
+  
+  # Food (cooked)
+  cookedbeef: 15
+  cookedporkchop: 15
+  cookedchicken: 12
+  cookedsalmon: 15
+  bread: 10
+  
+  # Food (raw)
+  beef: 8
+  porkchop: 8
+  chicken: 6
+  salmon: 10
+  rabbit: 8
+  mutton: 8
+  
+  # Raw materials
+  leather: 8
+  string: 5
+  spider_eye: 10
+  gunpowder: 25
+  blaze_rod: 50
+  shulker_shell: 75
+  phantom_membrane: 30
+  nautilus_shell: 40
+  heart_of_the_sea: 100
+  totem_of_undying: 500
+  
+  # Brewing
+  nether_wart: 15
+  blaze_powder: 30
+  fermented_spider_eye: 20
+  ghast_tear: 75
+  rabbit_foot: 50
+  glistering_melon: 20
+  
+  # Tools & Weapons (enchantable)
+  wooden_sword: 2
+  wooden_pickaxe: 2
+  wooden_axe: 2
+  wooden_shovel: 2
+  
+  stone_sword: 5
+  stone_pickaxe: 5
+  stone_axe: 5
+  stone_shovel: 3
+  
+  iron_sword: 25
+  iron_pickaxe: 30
+  iron_axe: 30
+  iron_shovel: 20
+  iron_helmet: 30
+  iron_chestplate: 45
+  iron_leggings: 35
+  iron_boots: 25
+  
+  gold_sword: 15
+  gold_pickaxe: 20
+  gold_axe: 20
+  gold_helmet: 20
+  gold_chestplate: 30
+  gold_leggings: 25
+  gold_boots: 15
+  
+  diamond_sword: 250
+  diamond_pickaxe: 300
+  diamond_axe: 300
+  diamond_shovel: 150
+  diamond_helmet: 400
+  diamond_chestplate: 600
+  diamond_leggings: 500
+  diamond_boots: 350
+  diamond_horse_armor: 375
+  
+  netherite_sword: 1200
+  netherite_pickaxe: 1500
+  netherite_axe: 1500
+  netherite_helmet: 1800
+  netherite_chestplate: 2400
+  netherite_leggings: 2000
+  netherite_boots: 1600
+  
+  # Bows & Tridents
+  bow: 20
+  crossbow: 30
+  trident: 200
+  
+  # Armor (other)
+  leather_helmet: 15
+  leather_chestplate: 25
+  leather_leggings: 20
+  leather_boots: 15
+  chainmail_helmet: 30
+  chainmail_chestplate: 50
+  chainmail_leggings: 40
+  chainmail_boots: 25
+  
+  # Horse armor
+  iron_horse_armor: 50
+  gold_horse_armor: 30
+  diamond_horse_armor: 250
+  
+  # Mining items
+  torch: 2
+  pickaxe: 1
+  shovel: 1
+  axe: 1
+  
+  # Redstone items
+  redstone: 15
+  redstone_torch: 10
+  repeater: 15
+  comparator: 20
+  observer: 20
+  piston: 20
+  sticky_piston: 25
+  hopper: 30
+  dropper: 20
+  dispenser: 25
+  
+  # Utilities
+  bucket: 10
+  water_bucket: 15
+  lava_bucket: 25
+  minecart: 20
+  furnace_minecart: 25
+  chest_minecart: 25
+  tnt: 75
+  ender_pearl: 20
+  eye_of_ender: 50
+  ender_chest: 100
+  
+  # Decorations
+  wool: 8
+  carpet: 5
+  glass: 5
+  glass_pane: 4
+  brick: 15
+  sandstone: 8
+  stone_brick: 10
+  quartz: 30
+  prismarine: 25
+  coral: 20
+  sea_pickle: 15
+  glowstone: 20
+  
+  # Plants & Seeds
+  grass: 1
+  dirt: 1
+  sand: 1
+  gravel: 1
+  clay: 10
+  soul_sand: 15
+  mycelium: 10
+  vines: 3
+  lily_pad: 8
+  
+  # Saplings & Logs
+  sapling: 3
+  oak_log: 3
+  birch_log: 3
+  spruce_log: 3
+  jungle_log: 3
+  acacia_log: 3
+  dark_oak_log: 3
+  
+  # Books & Paper
+  book: 30
+  paper: 8
+  bookshelf: 120
+  book_and_quill: 25
+  
+  # Enchanted Books (basic)
+  efficiency: 50
+  unbreaking: 50
+  fortune: 100
+  silk_touch: 100
+  sharpness: 75
+  power: 75
+  protection: 75
+  feather_falling: 75
+  looting: 75
+  fire_aspect: 75
+  flame: 75
+  infinity: 100
+  
+  # Spawners
+  spawner: 500
+  
+  # Shulker boxes ( colores)
+  shulker_box: 150
+  white_shulker_box: 175
+  black_shulker_box: 175
+  red_shulker_box: 175
+  blue_shulker_box: 175
+  green_shulker_box: 175
+  yellow_shulker_box: 175
+  
+  # Banner patterns
+  banner: 25
+  
+  # Potions (brewable)
+  potion: 50
+  splash_potion: 60
+  lingering_potion: 75
+  
+  # Music discs
+  music_disc_13: 100
+  music_disc_cat: 100
+  music_disc_blocks: 100
+  music_disc_chirp: 100
+  music_disc_far: 100
+  music_disc_mall: 100
+  music_disc_mellohi: 100
+  music_disc_stal: 100
+  music_disc_strad: 100
+  music_disc_ward: 100
+  music_disc_11: 100
+  music_disc_wait: 100
+  
+  # Special
+  dragon_egg: 1000
+  beacon: 500
+  conduit: 400
+  nautilus_shell: 40
+  heart_of_the_sea: 100
+  treasure: 500

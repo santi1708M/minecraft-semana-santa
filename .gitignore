@@ -1,0 +1,39 @@
+# Minecraft Server GitIgnore
+
+# JAR files (plugins and server)
+*.jar
+
+# World data (too large to commit)
+world/
+world_nether/
+world_the_end/
+
+# Cache and logs
+cache/
+logs/
+
+# Database files (user data, transactions)
+*.db
+*.db-journal
+
+# User data
+plugins/Essentials/userdata/
+plugins/Essentials/usermap.bin
+plugins/Essentials/uuids.bin
+
+# Transaction logs
+plugins/EconomyShopGUI/transaction-log.txt
+plugins/EconomyShopGUI/transactions/
+
+# Temporary files
+*.lock
+*.tmp
+*.log
+.console_history
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PaperMC libraries (re-downloaded on startup)
+libraries/

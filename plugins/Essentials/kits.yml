@@ -1,0 +1,84 @@
+# EssentialsX kit configuration.
+# Kits for Survival Server
+
+kits:
+  # Kit inicial para nuevos jugadores
+  starter:
+    delay: 0
+    items:
+      - wooden_sword 1
+      - wooden_pickaxe 1
+      - wooden_axe 1
+      - wooden_shovel 1
+      - apple 10
+      - torch 16
+  
+  # Kit de herramientas de piedra
+  stone:
+    delay: 3600
+    items:
+      - stone_pickaxe 1
+      - stone_axe 1
+      - stone_sword 1
+      - stone_shovel 1
+  
+  # Kit de comida
+  food:
+    delay: 1800
+    items:
+      - cooked_beef 16
+      - cooked_porkchop 16
+      - bread 8
+      - golden_carrot 5
+  
+  # Kit de recursos básicos
+  resources:
+    delay: 7200
+    items:
+      - oak_log 64
+      - cobblestone 32
+      - coal 16
+      - iron_ingot 8
+  
+  # Kit de redstone
+  redstone:
+    delay: 3600
+    items:
+      - redstone 64
+      - redstone_torch 8
+      - repeater 8
+      - comparator 4
+      - observer 4
+  
+  # Kit de farming
+  farm:
+    delay: 3600
+    items:
+      - wheat_seeds 32
+      - carrot 16
+      - potato 16
+      - beetroot_seeds 16
+      - bone 16
+  
+  # Kit de combate
+  combat:
+    delay: 7200
+    items:
+      - iron_sword 1
+      - iron_helmet 1
+      - iron_chestplate 1
+      - iron_leggings 1
+      - iron_boots 1
+      - bow 1
+      - arrow 32
+  
+  # Kit de enchanted books (avanzado)
+  enchant:
+    delay: 14400
+    items:
+      - enchanted_book 1 efficiency:1
+      - enchanted_book 1 unbreaking:1
+      - enchanted_book 1 fortune:1
+      - enchanted_book 1 protection:1
+      - enchanted_book 1 sharpness:1
+      - enchanted_book 1 looting:1
