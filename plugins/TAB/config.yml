@@ -5,7 +5,7 @@ header-footer:
     default:
       header:
         - "<#FFD700>&m                                                 </#FFD700>"
-        - "<#00FF00>&lSERVER SEMANA SANTA</#FFD700>"
+        - "<#00FF00>&lSERVIDOR JÓVENES BELLO</#FFD700>"
         - "<#FFFFFF>Bienvenido, <#00FF00>%player%</#FFFFFF>!"
         - ""
         - "<#FFA500>Jugadores: <#00FF00>%online%</#FFA500> | Mundo: <#00FF00>%world%</#FFA500>"
@@ -77,7 +77,7 @@ scoreboard:
   delay-on-join-milliseconds: 1000
   scoreboards:
     survival:
-      title: "<#FFD700>SEMANA </#00FF00>SANTA"
+      title: "<#FFD700>JÓVENES </#00FF00>BELLO"
       display-condition: "%world%=world"
       lines:
         - "<#808080>------------------------"

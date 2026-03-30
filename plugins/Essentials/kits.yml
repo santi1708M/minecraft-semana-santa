@@ -10,6 +10,7 @@ kits:
       - wooden_pickaxe 1
       - wooden_axe 1
       - wooden_shovel 1
+      - golden_shovel 1
       - apple 10
       - torch 16
   
@@ -82,3 +83,9 @@ kits:
       - enchanted_book 1 protection:1
       - enchanted_book 1 sharpness:1
       - enchanted_book 1 looting:1
+  
+  # Kit para crear claims ( GriefPrevention )
+  claim:
+    delay: 0
+    items:
+      - golden_shovel 1
