@@ -11,76 +11,76 @@ pages:
         sell: 0.33
       '3':
         material: ANCIENT_DEBRIS
-        buy: 529
-        sell: 132.25
+        buy: 1587
+        sell: 396.75
       '4':
         material: COAL
-        buy: 5.25
-        sell: 1.32
+        buy: 10.5
+        sell: 2.64
       '5':
         material: COAL_BLOCK
         buy: 49.62
         sell: 12.41
       '6':
         material: COPPER_BLOCK
-        buy: 3.86
-        sell: 0.97
+        buy: 7.72
+        sell: 1.94
       '7':
         material: COPPER_INGOT
-        buy: 0.92
-        sell: 0.23
+        buy: 1.84
+        sell: 0.46
       '8':
         material: COPPER_ORE
-        buy: 15
+        buy: 30
         sell: -1
       '9':
         material: DIAMOND
-        buy: 52.5
-        sell: 13.13
+        buy: 472.5
+        sell: 118.13
       '10':
         material: DIAMOND_BLOCK
-        buy: 496.13
-        sell: 124.04
+        buy: 1488.39
+        sell: 372.12
       '11':
         material: EMERALD
-        buy: 39.38
-        sell: 9.85
+        buy: 354.42
+        sell: 88.61
       '12':
         material: EMERALD_BLOCK
-        buy: 372.1
-        sell: 93.03
+        buy: 3348.9
+        sell: 837.24
       '13':
         material: GOLD_BLOCK
-        buy: 78.14
-        sell: 19.54
+        buy: 703.26
+        sell: 175.83
       '14':
         material: GOLD_INGOT
-        buy: 8.27
-        sell: 2.07
+        buy: 74.43
+        sell: 18.63
       '15':
         material: IRON_BLOCK
-        buy: 52.1
-        sell: 13.03
+        buy: 104.2
+        sell: 26.06
       '16':
         material: IRON_INGOT
-        buy: 5.52
-        sell: 1.38
+        buy: 11.04
+        sell: 2.76
       '17':
         material: LAPIS_BLOCK
-        buy: 68.22
-        sell: 17.06
+        buy: 613.98
+        sell: 153.51
       '18':
         material: LAPIS_LAZULI
-        buy: 7.22
-        sell: 1.81
+        buy: 64.98
+        sell: 16.26
       '19':
         material: NETHERITE_BLOCK
-        buy: 22374
-        sell: 5593.5
+        buy: 67122
+        sell: 16780.5
       '20':
         material: NETHERITE_INGOT
-        buy: 2367.62
-        sell: 591.91
+        buy: 7102.86
+        sell: 1775.73
       '21':
         material: QUARTZ
         buy: 8.27
@@ -91,9 +91,9 @@ pages:
         sell: 8.69
       '23':
         material: REDSTONE
-        buy: 3.5
-        sell: 0.88
+        buy: 31.5
+        sell: 7.88
       '24':
         material: REDSTONE_BLOCK
-        buy: 33.08
-        sell: 8.27
+        buy: 297.72
+        sell: 74.43

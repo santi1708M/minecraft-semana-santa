@@ -1,33 +1,38 @@
 # EconomyShopGUI / Essentials Worth Configuration
-# Balanced for Survival Server (Starting balance: $1000)
+# Balanced for Survival Server (Starting balance: $0)
+# Updated: Lower dirt, higher ores
 worth:
-  # Ores - Mining
-  coal: 10
-  ironore: 15
-  goldore: 30
-  diamondore: 150
-  lapisore: 75
-  redstoneore: 20
-  copperore: 12
-  emeraldore: 200
+  # Ores - Mining (Subidos x2 comunes, x3 difíciles)
+  coal: 20
+  ironore: 30
+  goldore: 90
+  diamondore: 450
+  lapisore: 225
+  redstoneore: 60
+  copperore: 24
+  emeraldore: 600
   
-  # Ingots
-  ironingot: 20
-  goldingot: 50
-  copperingot: 15
-  diamond: 150
-  emerald: 200
+  # Ingots (Subidos)
+  ironingot: 40
+  goldingot: 150
+  copperingot: 30
+  diamond: 450
+  emerald: 600
   
-  # Blocks
+  # Blocks (Tierra/barro más barato)
   cobblestone: 1
   stone: 2
-  ironblock: 180
-  goldblock: 450
-  diamondblock: 1350
-  emeraldblock: 1800
-  coalblock: 90
-  redstoneblock: 180
-  lapisblock: 675
+  dirt: 0.5
+  grass_block: 0.5
+  gravel: 1
+  sand: 1
+  ironblock: 270
+  goldblock: 1350
+  diamondblock: 4050
+  emeraldblock: 5400
+  coalblock: 180
+  redstoneblock: 540
+  lapisblock: 2025
   
   # Farm items
   wheat: 5
