@@ -144,33 +144,6 @@ El PvP está habilitado, pero **cada jugador decide** si quiere o no recibir da�
 
 ---
 
-## 📝 Otros Comandos Útiles
-
-### Chat y Comunicación
-| Comando | Descripción |
-|---------|-------------|
-| */msg <jugador> <mensaje>* | Enviar mensaje privado |
-| */r <mensaje>* | Responder al último mensaje |
-| */ignore <jugador>* | Ignorar a un jugador |
-| */afk* | Indicarte como ausente |
-
-### Información
-| Comando | Descripción |
-|---------|-------------|
-| `/help` | Ver lista de comandos |
-| `/rules` | Ver las reglas del servidor |
-| `/motd` | Ver mensaje del día |
-| `/playerlist` / `/list` | Ver jugadores online |
-
-### Utilidades
-| Comando | Descripción |
-|---------|-------------|
-| `/itemdb` | Ver información de un item |
-| `/recipe` | Ver recetas de crafteo |
-| `/time set day` | Poner de día (solo admin) |
-| `/weather` | Cambiar clima (solo admin) |
-
-
 
 
 ## ❓ Preguntas Frecuentes
