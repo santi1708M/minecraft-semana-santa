@@ -175,9 +175,7 @@ El PvP está habilitado, pero **cada jugador decide** si quiere o no recibir da�
 | `/weather` | Cambiar clima (solo admin) |
 
 
-```
 
----
 
 ## ❓ Preguntas Frecuentes
 
@@ -210,7 +208,6 @@ Si tenés problemas o preguntas:
 
 ## 📋 Resumen de Comandos Rápidos
 
-```
 /kit starter    -> Obtener kit inicial
 /kit food       -> Obtener comida
 /kit stone      -> Obtener herramientas de piedra
