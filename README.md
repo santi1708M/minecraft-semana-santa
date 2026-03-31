@@ -204,7 +204,6 @@ Si tenés problemas o preguntas:
 - Preguntá en el chat a un admin
 - Usá `/helpop <mensaje>` para pedir ayuda
 
----
 
 ## 📋 Resumen de Comandos Rápidos
 
@@ -221,8 +220,6 @@ Si tenés problemas o preguntas:
 /pvp off        -> Desactivar PvP
 /skin <nombre>  -> Cambiar skin
 /back           -> Volver atrás
-```
 
----
 
 ¡Diviertete en **Servidor Jóvenes Bello**! 🎉
