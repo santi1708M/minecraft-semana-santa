@@ -45,7 +45,6 @@ Simplemente escribí el comando en el chat:
 
 | Comando | Descripción |
 |---------|-------------|
-| `/spawn` | Ir al spawn (punto de aparición) |
 | `/sethome` | Establecer tu casa en tu posición actual |
 | `/home` | Ir a tu casa |
 | `/home <nombre>` | Ir a una casa específica (si tienes varias) |
@@ -223,7 +222,6 @@ Si tenés problemas o preguntas:
 /kit starter    -> Obtener kit inicial
 /kit food       -> Obtener comida
 /kit stone      -> Obtener herramientas de piedra
-/spawn          -> Ir al spawn
 /sethome        -> Establecer casa
 /home           -> Ir a tu casa
 /shop           -> Abrir tienda
