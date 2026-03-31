@@ -153,10 +153,10 @@ El PvP está habilitado, pero **cada jugador decide** si quiere o no recibir da�
 ### Chat y Comunicación
 | Comando | Descripción |
 |---------|-------------|
-| `/msg <jugador> <mensaje>` | Enviar mensaje privado |
-| `/r <mensaje>` | Responder al último mensaje |
-| `/ignore <jugador>` | Ignorar a un jugador |
-| `/afk` | Indicarte como ausente |
+| */msg <jugador> <mensaje>* | Enviar mensaje privado |
+| */r <mensaje>* | Responder al último mensaje |
+| */ignore <jugador>* | Ignorar a un jugador |
+| */afk* | Indicarte como ausente |
 
 ### Información
 | Comando | Descripción |
@@ -174,15 +174,7 @@ El PvP está habilitado, pero **cada jugador decide** si quiere o no recibir da�
 | `/time set day` | Poner de día (solo admin) |
 | `/weather` | Cambiar clima (solo admin) |
 
----
 
-## 🏆 Sistema de Puntos
-
-Puedes ganar puntos jugando y gastarlos en la tienda.
-
-```
-/points       -> Ver tus puntos
-/points help -> Ver comandos de puntos
 ```
 
 ---
