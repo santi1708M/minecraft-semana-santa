@@ -70,10 +70,6 @@ Simplemente escribí el comando en el chat:
 /sell
 ```
 
-### Precios actuales
-- **Tierras (dirt, grass, gravel, sand)**: Muy barato
-- **Minerales comunes (carbón, hierro)**: Precio medio
-- **Minerales difíciles (oro, diamante, esmeralda, netherite)**: Precio alto
 
 ---
 
@@ -207,19 +203,19 @@ Si tenés problemas o preguntas:
 
 ## 📋 Resumen de Comandos Rápidos
 
-/kit starter    -> Obtener kit inicial
-/kit food       -> Obtener comida
-/kit stone      -> Obtener herramientas de piedra
-/sethome        -> Establecer casa
-/home           -> Ir a tu casa
-/shop           -> Abrir tienda
-/balance        -> Ver dinero
-/claim          -> Crear claim (con pala dorada)
-/trust <player> -> Dar permiso a otro jugador
-/pvp on         -> Activar PvP
-/pvp off        -> Desactivar PvP
-/skin <nombre>  -> Cambiar skin
-/back           -> Volver atrás
+- /kit starter    -> Obtener kit inicial
+- /kit food       -> Obtener comida
+- /kit stone      -> Obtener herramientas de piedra
+- /sethome        -> Establecer casa
+- /home           -> Ir a tu casa
+- /shop           -> Abrir tienda
+- /balance        -> Ver dinero
+- /claim          -> Crear claim (con pala dorada)
+- /trust <player> -> Dar permiso a otro jugador
+- /pvp on         -> Activar PvP
+- /pvp off        -> Desactivar PvP
+- /skin <nombre>  -> Cambiar skin
+- /back           -> Volver atrás
 
 
 ¡Diviertete en **Servidor Jóvenes Bello**! 🎉
