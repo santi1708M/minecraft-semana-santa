@@ -30,7 +30,6 @@ kits:
       - cooked_beef 16
       - cooked_porkchop 16
       - bread 8
-      - golden_carrot 5
   
   # Kit de recursos básicos
   resources:
